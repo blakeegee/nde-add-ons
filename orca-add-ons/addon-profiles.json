@@ -1,3 +1,9 @@
 {
-  "addons": {}
+  "addons": {
+    "orca-test-banner": {
+      "buildName": "orca-test-banner",
+      "remoteName": "orcaTestBanner",
+      "exposedModule": "./orca-test-banner"
+    }
+  }
 }
