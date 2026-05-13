@@ -1,7 +1,8 @@
 import { AddonRuntimeProfile } from './addon-profile.types';
+import { orcaTestBannerProfile } from './orca-test-banner';
 
 const addonProfiles: Record<string, AddonRuntimeProfile> = {
-  // Register add-on runtime profiles here.
+  'orca-test-banner': orcaTestBannerProfile
 };
 
 export function resolveAddonRuntimeProfile(addonKey: string): AddonRuntimeProfile {

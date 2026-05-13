@@ -50,7 +50,7 @@ export const orcaTestBannerProfile: AddonRuntimeProfile = {
   key: 'orca-test-banner',
   buildName: 'orca-test-banner',
   selectorComponentMap: new Map<string, any>([
-    ['nde-your-selector', OrcaTestBannerComponent]
+    ['orca-test-banner', OrcaTestBannerComponent]
   ])
 };
 ```
