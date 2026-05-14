@@ -4,7 +4,7 @@ This repository hosts multiple add-ons that share the same `customModule-main` b
 
 ## Add-ons
 
-- `orca-test-banner`
+- [`orca-test-banner`]
 
 
 ## Adding a New Component
