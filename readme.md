@@ -15,7 +15,7 @@ Before making changes:
 
 1. Start from the latest `main` branch.
 2. Create a new branch for your add-on work.
-3. Create the new component inside `orca-add-ons`.
+3. Create the new component inside [`orca-add-ons`](./orca-add-ons).
 4. Update the add-on profiles so the new component can be built in this repo.
 
 ## Updating Profiles for Build
